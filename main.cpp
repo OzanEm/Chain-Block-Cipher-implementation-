@@ -5,7 +5,7 @@
 
 int main()
 {
-  char s[] = "aaaaaaaabbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+  char s[] = "testing";
   char *outbuf, *recvbuf;
   char pass[] = "top secret";
   int len = 0;
